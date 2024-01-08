@@ -12,7 +12,7 @@ As a security analyst, I'll often use notebook environments and notebooks to wri
 
 In this lab, I'll complete a series of tasks that involve observing and running some pre-written cells of text and code, as well as filling in cells with my own text, Python code, and code comments.
 
-</h2>Task 1</h2>
+<h2>Task 1</h2>
 
 The lab environment I'm working in is a notebook-based coding environment. Notebooks, such as this one, consist of two types of cells: (1) text cells, also known as markdown cells, and (2) code cells.
 
